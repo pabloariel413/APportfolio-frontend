@@ -1,0 +1,13 @@
+.banner-container{
+    background-image: url('https://cloudfront-us-east-1.images.arcpublishing.com/infobae/YHAKDOR3PZBRHCU2BIOX7XPJBA.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 50px;
+    position: relative;
+}
+
+h2{
+    color:aliceblue;
+    font-size: 4.5rem;
+    text-shadow: 3px 3px 5px #000;
+}

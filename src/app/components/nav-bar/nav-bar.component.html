@@ -19,6 +19,7 @@
           </svg>
     </a>
     </div>
-    <button type="button" class="btn btn-outline-light col ms-5">Login</button>
+    <button *ngIf="loginShow" type="button" class="btn btn-outline-light col ms-5">Login</button>
+    <button *ngIf="!loginShow" type="button" class="btn btn-outline-light col ms-5">Logout</button>
   </div>
     </nav>
