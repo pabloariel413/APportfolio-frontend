@@ -1,0 +1,27 @@
+.work-container{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    border: solid #000;
+
+    .img-work{
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+    }
+}
+
+.text-work{
+    margin-left: 3rem;
+    color: aliceblue
+}
+
+h5{
+    font-size: 2rem;
+    color: aliceblue;
+}
+
+.work-description{
+    font-size: 1.5rem;
+    color: aliceblue;
+}
+
