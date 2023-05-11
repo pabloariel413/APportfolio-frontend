@@ -12,6 +12,8 @@ import { WorksComponent } from './components/works/works.component';
 import { HttpClientModule } from '@angular/common/http';
 import { HttpClientInMemoryWebApiModule } from 'angular-in-memory-web-api';
 import { InMemoryDataService } from './services/in-memory-data.service';
+import { DeleteComponent } from './components/delete/delete.component';
+import { EditComponent } from './components/edit/edit.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -20,7 +22,9 @@ import { InMemoryDataService } from './services/in-memory-data.service';
     HeaderComponent,
     ProfileComponent,
     ExperiencComponent,
-    WorksComponent
+    WorksComponent,
+    DeleteComponent,
+    EditComponent
   ],
   imports: [
     BrowserModule,
