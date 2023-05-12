@@ -1,0 +1,29 @@
+.row{
+    padding: 20px;
+    background-color: rgb(70, 53, 28);
+    margin: 50px 50px;;
+}
+h2{
+        margin-left: 3rem;
+        font-size: 2rem;
+        color: aliceblue;
+}
+h3{
+    margin-left: 5rem;
+    font-size: 1.5rem;
+    color: aliceblue;
+}
+p{
+        margin-left: 5rem;
+        font-size: 1rem;
+        color: aliceblue;
+}
+
+.info, .foto{
+    display: inline-block;
+    text-align: justify;
+}
+
+.img-proyecto{
+    box-shadow: 10px 10px 30px #000;
+}

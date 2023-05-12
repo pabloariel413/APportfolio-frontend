@@ -5,10 +5,10 @@
 }
 .faceImg{
     border-radius: 50%;
-    width: 10%;
+    width: 15%;
     position: absolute;
-    top:-5vw;
-    left: 45%;
+    top: -12vw;
+    left: 43%;
 }
 h1{
     text-shadow: 3px 3px 5px #000;
@@ -21,9 +21,16 @@ h1{
 }
 h3{
     color: aliceblue;
+    font-size: 2rem;
+}
+
+.about-container{
+    background-color: rgb(70, 53, 28);
+    padding: 20px;
 }
 .about-description{
     color: aliceblue;
+    font-size: 1.5rem;
 }
 
 .faceImg{

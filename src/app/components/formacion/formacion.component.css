@@ -1,12 +1,13 @@
 .title-container{
     padding: 20px;
+    margin-left: 3rem;
 }
-.works-container{
-    padding: 10px;
+.education-container{
+    color: aliceblue;
+    margin-left: 5rem;
 }
 h3{
     color: aliceblue;
-    margin-left: 3rem;
     font-size: 2rem;
 }
 button{

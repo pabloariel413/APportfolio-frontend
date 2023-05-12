@@ -5,11 +5,13 @@ h1{
     color:antiquewhite;
     font-size:large;
 }
-h2{
+h3{
     color:aliceblue;
     font-size: xx-large;
 }
-
+.navbar-left{
+    align-items: center;
+}
 a{
     color: rgb(124, 86, 28);
     padding: 1rem;
